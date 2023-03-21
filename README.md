@@ -1,0 +1,1 @@
+# ESP32_Thermal_Scanner_with_LineNotify_and_Google_Sheets_Integration
