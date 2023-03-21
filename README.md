@@ -1,7 +1,7 @@
 # ESP32_Thermal_Scanner_with_LineNotify_and_Google_Sheets_Integration
 ## Description
 
-This program uses an ESP32 microcontroller to measure temperature through a K3 Thermal Scanner, and sends notifications via Line Notify if the temperature exceeds a certain threshold. Additionally, it saves the temperature readings to a Google Sheets document using IFTTT.
+This program uses an ESP32 microcontroller to measure temperature through a K3 Thermal Scanner, and sends notifications via Line Notify if the temperature exceeds a certain threshold. Additionally, it saves the temperature readings to a Google Sheets document using IFTTT.<br><b>2022</b>
 
 ## Prerequisites
 
