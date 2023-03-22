@@ -31,6 +31,12 @@ The ESP32 will continuously measure temperature through the K3 Thermal Scanner a
 
 If the temperature exceeds 150°C, the ESP32 will automatically restart.
 
+## Example
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77733903/226799242-4194fddf-b0b1-4441-aba0-e5331f416651.jpg" width="500">
+</p>
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
